@@ -4,7 +4,8 @@
 
 a:link, a:visited {
 	text-decoration:none;
-	color:#065388;
+/*	color:#065388;*/
+	color:#0a0a0a;
 }
 a:hover {
 	color:#990000;	
@@ -49,7 +50,8 @@ body {
 	
 	background-color:#373737;
 	margin:0;
-	border-bottom:3px solid #b28c5b;
+	border-bottom:3px solid #0a0a0a;
+/*	border-bottom:3px solid #b28c5b;*/
 }
 h1 {
 	margin:0;
@@ -145,7 +147,7 @@ h2 {
 }
 
 #contentbar {
-	width:210px;
+	width:300px;
 	float:left;
 	line-height:140%;
 	background-color:#EEE;
@@ -177,10 +179,10 @@ h1 {
 }
 #banner {
 	background-color:#bf5700;
-	background-image: url(banner.png);
+	background-image: url(banner4.png);
 }
 #fac_photo {margin-left:auto; margin-right:auto; display:block; padding:10px;}
-#banner p {padding-left:1em}
+# p {padding-left:1em}
 /* uncomment the specific line to hide the content div on specific pages */
 /* .contentbar1 {display:none}  */
  .contentbar2 {display:none}  
